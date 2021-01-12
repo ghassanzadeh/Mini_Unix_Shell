@@ -1,6 +1,3 @@
-Name: Golnoush Hassanzadeh
-Student ID: 1549621
-
 Notes:
 - when entering exit command, it waits for all processes to finish then it will exit. That's why there may be a pause to immediately exit from shell379
 - when a process is suspended, its state changes to T
