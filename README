@@ -1,5 +1,5 @@
 Notes:
-- when entering exit command, it waits for all processes to finish then it will exit. That's why there may be a pause to immediately exit from shell379
+- when entering exit command, it waits for all processes to finish then it will exit. That's why there may be a pause to immediately exit from the shell
 - when a process is suspended, its state changes to T
 - jobs command return two process counts: one for active processes and the other includes all processes including suspended with T status
 - the assumption is the command takes an input file and then an output file or each one separately: <cmd> <inputfile >outputfile
